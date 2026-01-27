@@ -33,9 +33,8 @@ I enjoy writing clean, maintainable code and continuously improving system perfo
 
 ---
 
-### 🌐 Portfolio & Resume
-- 💼 Portfolio: https://portfolio-ahmad-gozali.vercel.app  
-- 📄 Resume: https://drive.google.com/file/d/1OtDN2sBdc91Uzf7Ho8KdsF-3K623RHXH/view  
+### 🌐 Portfolio
+- 💼 Portfolio: https://profile.ahmad-gozali.com
 
 ---
 
