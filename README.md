@@ -22,7 +22,7 @@ Comfortable working in cross-functional and remote teams, translating business n
 - Delivered applications handling **300+ concurrent users**
 
 ## 🌐 Portfolio
-profile.ahmad-gozali.com
+[profile.ahmad-gozali.com](https://profile-gozali.web.id/)
 
 ## 📫 Contact
 Email: ahmadgozaali@gmail.com  
